@@ -1,6 +1,7 @@
 {
   "name": "travel-list-app-starter",
   "version": "0.1.0",
+  "homepage": "https://Nigel-23047846.github.io/Travel-List-App",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
